@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jux5ctd44x7mih7f?svg=true)](https://ci.appveyor.com/project/sergeyzlenskiy/classes-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/om3f0y5idu0raaqx?svg=true)](https://ci.appveyor.com/project/sergeyzlenskiy/map)
